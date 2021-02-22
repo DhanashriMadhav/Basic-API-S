@@ -1,0 +1,17 @@
+[
+    {
+        "name": "neha",
+        "age": 23,
+        "lastname": "israni"
+    },
+    {
+        "name": "prashant",
+        "age": 22,
+        "lastname": "pathak"
+    },
+    {
+        "name": "dhanashri",
+        "age": 21,
+        "lastname": "opale"
+    }
+]
